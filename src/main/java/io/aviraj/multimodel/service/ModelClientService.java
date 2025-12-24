@@ -1,5 +1,6 @@
-package io.aviraj.multimodel;
+package io.aviraj.multimodel.service;
 
+import io.aviraj.multimodel.config.ModelProperties;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;

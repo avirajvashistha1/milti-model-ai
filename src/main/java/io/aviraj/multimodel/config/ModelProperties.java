@@ -1,4 +1,4 @@
-package io.aviraj.multimodel;
+package io.aviraj.multimodel.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

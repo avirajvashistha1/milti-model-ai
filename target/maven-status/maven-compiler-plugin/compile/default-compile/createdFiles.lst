@@ -1,0 +1,4 @@
+io\aviraj\multimodel\controller\PingController.class
+io\aviraj\multimodel\MultiModelAiApplication.class
+io\aviraj\multimodel\service\ModelClientService.class
+io\aviraj\multimodel\config\ModelProperties.class
